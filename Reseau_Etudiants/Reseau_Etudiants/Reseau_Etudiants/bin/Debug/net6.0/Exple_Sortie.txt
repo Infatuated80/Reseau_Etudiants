@@ -1,0 +1,30 @@
+Etudiant 1
+----------
+Id : POMHEL55232F
+Nom : Pompeö
+Prénom : Hellen
+Née le : 15 novembre 2003
+Age : 25 ans
+Matières choisies : Anglais, Français, Informatique
+
+Ses notes :
+   Anglais : 15,03 18,05 06
+   Français : 5,1 11,5 13
+   Informatique : 19 15,5 10 
+
+*******************************************************
+
+Etudiant 2
+----------
+Id : DUPMAR45852F
+Nom : Duprès
+Prénom : Marco
+Née le : 18 octobre 2005
+Age : 22 ans
+Matières choisies : Maths, SciencePhysique, Informatique
+
+Ses notes :
+
+   Maths : 12 13,5 19
+   SciencePhysique : 11,5 13 10
+   Informatique : 19 11 12,4 

@@ -1,0 +1,17 @@
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\bin\Debug\net6.0\Reseau_Etudiants.exe
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\bin\Debug\net6.0\Reseau_Etudiants.deps.json
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\bin\Debug\net6.0\Reseau_Etudiants.runtimeconfig.json
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\bin\Debug\net6.0\Reseau_Etudiants.dll
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\bin\Debug\net6.0\Reseau_Etudiants.pdb
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\obj\Debug\net6.0\Reseau_Etudiants.csproj.AssemblyReference.cache
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\obj\Debug\net6.0\Reseau_Etudiants.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\obj\Debug\net6.0\Reseau_Etudiants.AssemblyInfoInputs.cache
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\obj\Debug\net6.0\Reseau_Etudiants.AssemblyInfo.cs
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\obj\Debug\net6.0\Reseau_Etudiants.csproj.CoreCompileInputs.cache
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\obj\Debug\net6.0\Reseau_E.2F051B94.Up2Date
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\obj\Debug\net6.0\Reseau_Etudiants.dll
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\obj\Debug\net6.0\refint\Reseau_Etudiants.dll
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\obj\Debug\net6.0\Reseau_Etudiants.pdb
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\obj\Debug\net6.0\Reseau_Etudiants.genruntimeconfig.cache
+D:\Formation_C#\Programmes_TP\Formation_C#\Reseau_Etudiants\Reseau_Etudiants\Reseau_Etudiants\obj\Debug\net6.0\ref\Reseau_Etudiants.dll

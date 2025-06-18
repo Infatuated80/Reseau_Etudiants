@@ -1,0 +1,66 @@
+[
+    {
+        "Id": "1",
+        "Nom": "Dupont",
+        "Prenom": "Jean",
+        "DateNaissance": "2000-05-15",
+        "Matieres": [
+            "Anglais",
+            "Maths",
+            "SVT"
+        ],
+        "Notes": {
+            "Anglais": [15.5, 16.0, 14.0],
+            "Maths": [12.0, 14.5, 13.0],
+            "SVT": [18.5, 17.0, 19.0]
+        }
+    },
+    {
+        "Id": "2",
+        "Nom": "Martin",
+        "Prenom": "Sophie",
+        "DateNaissance": "1999-11-20",
+        "Matieres": [
+            "Français",
+            "Philosophie",
+            "Histoire"
+        ],
+        "Notes": {
+            "Français": [15.0, 14.0, 16.5],
+            "Philosophie": [12.5, 13.0, 14.5],
+            "Histoire": [10.0, 11.5, 12.0]
+        }
+    },
+    {
+        "Id": "3",
+        "Nom": "Leroy",
+        "Prenom": "Alice",
+        "DateNaissance": "2001-02-10",
+        "Matieres": [
+            "Geographie",
+            "SciencePhysique",
+            "Informatique"
+        ],
+        "Notes": {
+            "Geographie": [16.0, 17.0, 15.5],
+            "SciencePhysique": [14.0, 15.0, 13.5],
+            "Informatique": [19.0, 18.5, 20.0]
+        }
+    },
+    {
+        "Id": "MABREM57",
+        "Nom": "Mabrouk",
+        "Prenom": "Rémi",
+        "DateNaissance": "1957-11-15",
+        "Matieres": [
+            "Philosophie",
+            "SVT",
+            "Histoire"
+        ],
+        "Notes": {
+            "Philosophie": [10.5, 18.0, 20.0],
+            "SVT": [13.0, 0.0, 13.5, 17.69],
+            "Histoire": [5.0, 10.5, 13.33, 6.66]
+        }
+    }
+]
